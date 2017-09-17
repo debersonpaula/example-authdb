@@ -1,0 +1,17 @@
+{
+  "name": "example-authdb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "express": "^4.15.4",
+    "express-session": "^1.15.5",
+    "mongodb": "^2.2.31"
+  }
+}
